@@ -136,6 +136,7 @@ button{
   text-decoration: none;
   outline: none;
   border: none;
+  font-family: var(--body-font);
 }
 
 /*==================== REUSABLE CSS CLASSES ====================*/
