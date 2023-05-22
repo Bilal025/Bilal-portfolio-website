@@ -137,6 +137,7 @@ button{
   outline: none;
   border: none;
   font-family: var(--body-font);
+  cursor: pointer;
 }
 
 /*==================== REUSABLE CSS CLASSES ====================*/
