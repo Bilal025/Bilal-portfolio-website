@@ -1,4 +1,4 @@
-# Responsive Portfolio Website
+# Responsive Portfolio Website - Mohamed Bilal
 
 https://bilal025.github.io/Bilal-portfolio-website/
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
