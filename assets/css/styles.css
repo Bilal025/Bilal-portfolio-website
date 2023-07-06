@@ -164,8 +164,8 @@ button{
 /*==================== LAYOUT ====================*/
 .container {
   max-width: 768px;
-  margin-left: var(--mb-1-5);
-  margin-right: var(--mb-1-5);
+  margin-left: var(--mb-0-5);
+  margin-right: var(--mb-0-5);
 }
 
 .grid {
@@ -874,7 +874,7 @@ button{
     margin-left: 3rem;
   }
   .about__container{
-    column-gap: 5rem;
+    column-gap: 3rem;
   }
   .about__img{
     width: 300px;
@@ -938,7 +938,7 @@ button{
     transform: translateX(-6rem);
   }
   .portfolio__content{
-    column-gap: 5rem;
+    column-gap: 3rem;
   }
   .swiper-portfolio-icon{
     font-size: 3.5rem;
