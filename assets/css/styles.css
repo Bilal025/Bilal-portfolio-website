@@ -420,43 +420,43 @@ button{
   background-color: var(--first-color);
 }
 .skills__html{
-  width: 80%;
+  width: 90%;
 }
 .skills__css{
-  width: 60%;
+  width: 80%;
 }
 .skills__js{
-  width: 60%;
+  width: 70%;
 }
 .skills__react{
-  width: 40%;
+  width: 70%;
 }
 .skills__git{
-  width: 60%;
+  width: 80%;
 }
 .skills__wp{
   width: 70%;
 }
 .skills__java{
-  width: 60%;
+  width: 80%;
 }
 .skills__php{
-  width: 60%;
+  width: 50%;
 }
 .skills__sql{
-  width: 60%;
+  width: 80%;
 }
 .skills__mongo{
-  width: 50%;
+  width: 80%;
 }
 .skills__firebase{
   width: 60%;
 }
 .skills__spring{
-  width: 40%;
+  width: 60%;
 }
-.skills__python{
-  width: 20%;
+.skills__node{
+  width: 50%;
 }
 .skills__figma{
   width: 80%;
@@ -468,7 +468,7 @@ button{
   width: 70%;
 }
 .skills__photoshop{
-  width: 60%;
+  width: 70%;
 }
 .skills__close .skills__list{
   height: 0;
