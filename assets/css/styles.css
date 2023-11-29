@@ -518,7 +518,14 @@ button{
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-0-75);
 }
-
+.web{
+  margin-top: 10px;
+  color: var(--text-color-light);
+  font-weight: var(--font-medium);
+}
+.webtop{
+  line-height: 28px;
+}
 .qualification__subtitle-small{
   display: inline-block;
   font-size: var(--smaller-font-size);
