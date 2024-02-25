@@ -431,8 +431,11 @@ button{
 .skills__react{
   width: 70%;
 }
+.skills__angular{
+  width: 60%;
+}
 .skills__git{
-  width: 80%;
+  width: 90%;
 }
 .skills__wp{
   width: 70%;
@@ -459,7 +462,7 @@ button{
   width: 50%;
 }
 .skills__figma{
-  width: 80%;
+  width: 90%;
 }
 .skills__xd{
   width: 70%;
